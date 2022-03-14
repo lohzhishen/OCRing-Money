@@ -12,4 +12,6 @@ In this notebook, I attempt to create a computer vision pipeline to OCR the seri
 2. the right side of the image - vertically printed
 
 I will be OCR'ing the vertical serial number as I deem it to be more challenging then the other as tesseract works better OCR'ing horizontally printed words.
+  
+Note: I do not own the rights to the images. They are images that I found through Google.
 </p>
